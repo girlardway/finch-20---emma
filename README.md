@@ -1,6 +1,9 @@
 
 > Open this page at [https://girlardway.github.io/finch-20---emma/](https://girlardway.github.io/finch-20---emma/)
 
+## Author Notes
+This program should move the finch 2.0 around. It plays "Welcome To The Black Parade" while doing this!
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
